@@ -1,4 +1,7 @@
 ## Hi there 👋
+Sou Kléria Gomes de Sales,
+Professora de Matemática &
+Estudante de Tecnologia em Análise de Desenvolvimento de Sistemas
 
 <!--
 **kleriagomesdesales/kleriagomesdesales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
